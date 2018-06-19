@@ -9,10 +9,13 @@ about: Reporte para seguimiento de bugs o propuestas de mejoras
 [ ] Reporte de bug
 [ ] Sugerencia de mejora
 [ ] Otro.... (especificar)
+
+
+
 </code></pre>
 
 
-## Describir el comportamiento actual: resumen del problema. 
+## Describir el comportamiento.... actual: resumen del problema. 
 
 
 ## Describir el comportamiento esperado. 
