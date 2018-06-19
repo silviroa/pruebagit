@@ -1,5 +1,5 @@
 ---
-name: Reporte de issues
+name: Reporte de issue
 about: Reporte para seguimiento de bugs o propuestas de mejoras
 
 ---
